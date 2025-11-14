@@ -1,0 +1,5 @@
+{
+  "proxy": null,
+  "downloadDirectory": "downloads",
+  "retryLimit": 3
+}
